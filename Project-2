@@ -1,0 +1,33 @@
+#include<stdio.h>
+int main()
+{
+int home bill=1;
+int shop bill=2;
+int finish=0;
+while(Calculate bill)
+{
+    if(calculate home bill)
+    {
+        if(first 100 unit)
+        printf("unit*5rs");
+    scanf("%d,& 100*5");
+    if(next 100-200 unit)
+    {
+        printf("unit*6.5rs");
+        scanf("%d,& 100-200*6.5");
+    }
+    }
+    if(calculate shop bill)
+    {
+        if(bill=total unit)
+        printf("total unit*9rs");
+    scanf("%d,& unit*9");
+    }
+}
+break(bill=0)
+{
+printf("zero bill");
+scanf("%d,&0");
+}
+return 0;
+}
